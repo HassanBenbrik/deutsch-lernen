@@ -1,0 +1,65 @@
+# Prüfung:
+```Text
+Deine Mutter hat heute einen Geburtstag, du und deine Bruder wollt ihr eine Party organisieren.
+- Wo?
+- Wann?
+- Was kaufen?
+- Wen einladen?
+```
+
+## die Lösung:
+```Text
+Dialog1:
+- ich: weißt du dass unsere Mutter hat heute ihre Geburtstag, was denkst du ob wir eine Party organisieren?
+- Mein Bruder: Super, ich habe es vergessen, aber das ist eine schöne idee, hast du ein vorschlag wo können wir es zu tun?
+- ich: ich denke dass beste ort ist in unsere Hause.
+- Mein Bruder: und um wie viel Uhr?
+- ich: Diese Nacht, um einundzwanzig Uhr.
+- Mein Bruder: Und was können wir kaufen für ihr?
+- ich: Ein Kuchen und ein geschenk.
+- Mein Bruder: In ordnung, und wer müssen einladen?
+- ich: Unsere Tante und Onkel und Großeltern.
+- Mein Bruder: das ist super, geneh wir.
+```
+```Text
+Dialog2:
+- ich: weißt du dass unsere Mutter Geburtstag ist nah, ich denke dass wir eine Party fur ihr originisieren können?
+- Mein Bruder: Ja, genau, hast du eine idee wo können wir es zu machen?
+- ich: Wir können das machen in einen café.
+- Mein Bruder: Ja, ich weiße einen schönes café. Wann können wir das machen?
+- ich: Heute abend um achtzehn Uhr.
+- Mein Bruder: Super. Und was brauchen wir kaufen?
+- ich: Wir werden einen Saft und einen Kuchen kaufen.
+- Mein Bruder: Ich kann zu Supermarket und das kaufen gehe, aber wen sollen wir einladen?
+- ich: Unsere Tante und unsere Mutters Freund
+- Mein Bruder: OK, los geht's
+```
+
+## Correction:
+```Text
+Gespräch 1 (korrigiert):
+Ich: Weißt du, dass unsere Mutter heute Geburtstag hat? Was denkst du, sollen wir eine Party organisieren?
+Mein Bruder: Super! Ich habe es vergessen, aber das ist eine schöne Idee. Hast du einen Vorschlag, wo wir sie machen können?
+Ich: Ich denke, der beste Ort ist bei uns zu Hause.
+Mein Bruder: Und um wie viel Uhr?
+Ich: Heute Abend, um einundzwanzig Uhr.
+Mein Bruder: Und was können wir für sie kaufen?
+Ich: Einen Kuchen und ein Geschenk.
+Mein Bruder: In Ordnung. Und wen sollen wir einladen?
+Ich: Unsere Tante, unseren Onkel und unsere Großeltern.
+Mein Bruder: Das ist super. Gehen wir!
+```
+
+```Text
+Gespräch 2 (korrigiert):
+Ich: Weißt du, dass der Geburtstag unserer Mutter bald ist? Ich denke, wir können eine Party für sie organisieren.
+Mein Bruder: Ja, genau. Hast du eine Idee, wo wir sie machen können?
+Ich: Wir können sie in einem Café machen.
+Mein Bruder: Ja, ich kenne ein schönes Café. Wann können wir das machen?
+Ich: Heute Abend um achtzehn Uhr.
+Mein Bruder: Super. Und was müssen wir kaufen?
+Ich: Wir werden Saft und einen Kuchen kaufen.
+Mein Bruder: Ich kann in den Supermarkt gehen und das kaufen. Aber wen sollen wir einladen?
+Ich: Unsere Tante und den Freund unserer Mutter.
+Mein Bruder: Okay, los geht’s!
+```
