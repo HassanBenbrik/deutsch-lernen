@@ -42,7 +42,8 @@ Großen lieben.
 Hallo Mia,
 ich möchte dich am Wochenende sehen. Ich habe Neuigkeiten und möchte dir erzählen. Treffen wir uns am Samstag um 19 Uhr im Café im Zentrum?
 ```
-####################################################################################################################################
+
+```Text
 Goethe A2 Prüfung Schreiben Teil II
 Ihre Nachbarin, Frau Brandt, macht ein Gartenfest und hat Sie eingeladen. Schreiben Sie Frau Brandt eine E-Mail:
 Bedanken Sie sich und sagen Sie, dass Sie kommen.
@@ -50,7 +51,7 @@ Informieren Sie, dass Sie jemanden mitbringen.
 Fragen Sie nach dem Weg.
 Schreiben Sie 30–40 Wörter.
 Schreiben Sie zu allen drei Punkten.
-
+```
 
 - Hallo Frau Brandt,
 Ich bedanke mich bei Ihnen für den eingeladen, ich will sicher zu dem Gartenfest kommen, ich möchte Sie informieren dass ich meinem Freund mitbringen werde, können Sie das Weg schicken?
