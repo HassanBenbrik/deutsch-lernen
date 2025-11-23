@@ -8,8 +8,8 @@ Deine Mutter hat heute einen Geburtstag, du und deine Bruder wollt ihr eine Part
 ```
 
 ## die Lösung:
+### Dialog1:
 ```Text
-Dialog1:
 - ich: weißt du dass unsere Mutter hat heute ihre Geburtstag, was denkst du ob wir eine Party organisieren?
 - Mein Bruder: Super, ich habe es vergessen, aber das ist eine schöne idee, hast du ein vorschlag wo können wir es zu tun?
 - ich: ich denke dass beste ort ist in unsere Hause.
@@ -21,8 +21,9 @@ Dialog1:
 - ich: Unsere Tante und Onkel und Großeltern.
 - Mein Bruder: das ist super, geneh wir.
 ```
+
+### Dialog2:
 ```Text
-Dialog2:
 - ich: weißt du dass unsere Mutter Geburtstag ist nah, ich denke dass wir eine Party fur ihr originisieren können?
 - Mein Bruder: Ja, genau, hast du eine idee wo können wir es zu machen?
 - ich: Wir können das machen in einen café.
@@ -36,8 +37,8 @@ Dialog2:
 ```
 
 ## Correction:
+### Gespräch 1 (korrigiert):
 ```Text
-Gespräch 1 (korrigiert):
 Ich: Weißt du, dass unsere Mutter heute Geburtstag hat? Was denkst du, sollen wir eine Party organisieren?
 Mein Bruder: Super! Ich habe es vergessen, aber das ist eine schöne Idee. Hast du einen Vorschlag, wo wir sie machen können?
 Ich: Ich denke, der beste Ort ist bei uns zu Hause.
@@ -50,8 +51,8 @@ Ich: Unsere Tante, unseren Onkel und unsere Großeltern.
 Mein Bruder: Das ist super. Gehen wir!
 ```
 
+### Gespräch 2 (korrigiert):
 ```Text
-Gespräch 2 (korrigiert):
 Ich: Weißt du, dass der Geburtstag unserer Mutter bald ist? Ich denke, wir können eine Party für sie organisieren.
 Mein Bruder: Ja, genau. Hast du eine Idee, wo wir sie machen können?
 Ich: Wir können sie in einem Café machen.
