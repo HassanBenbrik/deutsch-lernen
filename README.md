@@ -1,4 +1,70 @@
+```Text
+Ich möchte schlafen, weil ich sehr müde bin
+
+weil : because
+dass : that
+wenn : if
+als : when
+bevor : before
+nachdem : after
+```
+
+```Text
+Als ich klein war, habe ich viel gespielt : When I was little, I played a lot
+Wir trinken den Saft, nachdem wir das Fleisch essen : We drink the juice, after we eat the meat
+ich achte auf den Weg, weil auf dem Weg viel passiert : I pay attention to the path because a lot happens along the way
+Du musst auf die Kindern achten, wenn sie draussen spielen : You must keep an eye on the children when they are playing outside
+ich achte auf mein Handy, weil ich kein Geld habe, damit ich ein neues kaufe : I'm careful with my phone because I don't have the money to buy a new one
+Der Vater achtet auf seine Familie, da das ist seine Verantwortung ist : The father looks after his family, as that is his responsibility
+Du musst auf die Straße achten, damit du keinen Unfall machst : You must pay attention to the road so you don't have an accident
+Achte auf deine Worte, weil du sehr unhöflich spricht : Watch your words, because you are speaking very rudely
+Er achtet auf die Fehler, seitdem er gefallen ist : He's been paying attention to his mistakes ever since he fell
+ich achte immer auf meine Ernährung, weil ich immer fit und gesund bleiben möchte : I always pay attention to my diet because I always want to stay fit and healthy
+Ich muss auf meine Gesundheit achten, weil sie sehr wichtig ist : I need to take care of my health because it is very important
+Ich achte mit viel Liebe auf meine Mutter, denn sie ist alt : I take great care of my mother because she is old
+Der stau : The traffic jam
+```
+
+Goethe A2 Prüfung Schreiben Teil I
+Sie sind zu Hause und schreiben eine SMS an Ihre Freundin Mia.
+Schreiben Sie, dass sie am Wochenende sehen möchten.
+Erklären Sie, warum.
+Nennen Sie eine Uhrzeit und einen Ort für das Treffen.
+Schreiben Sie 20–30 Wörter.
+Schreiben Sie zu allen drei Punkten.
+
+
+- Hallo Mia, I hoffe dass du gut gehst, ich möchte gern am Wochenende treffen mit dir, weil ich nach Frankreich Samstag gehen werde, treffen wir in dem cafe von Stadt zentrum am 19h Uhr, was denkst du?
+Großen lieben.
+
+### Corrected answer:
+```Text
+Hallo Mia,
+ich möchte dich am Wochenende sehen. Ich habe Neuigkeiten und möchte dir erzählen. Treffen wir uns am Samstag um 19 Uhr im Café im Zentrum?
+```
+####################################################################################################################################
+Goethe A2 Prüfung Schreiben Teil II
+Ihre Nachbarin, Frau Brandt, macht ein Gartenfest und hat Sie eingeladen. Schreiben Sie Frau Brandt eine E-Mail:
+Bedanken Sie sich und sagen Sie, dass Sie kommen.
+Informieren Sie, dass Sie jemanden mitbringen.
+Fragen Sie nach dem Weg.
+Schreiben Sie 30–40 Wörter.
+Schreiben Sie zu allen drei Punkten.
+
+
+- Hallo Frau Brandt,
+Ich bedanke mich bei Ihnen für den eingeladen, ich will sicher zu dem Gartenfest kommen, ich möchte Sie informieren dass ich meinem Freund mitbringen werde, können Sie das Weg schicken?
+Danke schön noch einmal
+
+Corrected answer:
+Hallo Frau Brandt,
+ich bedanke mich für die Einladung. Ich komme gern zum Gartenfest. Ich möchte Sie informieren, dass ich meinen Freund mitbringe. Können Sie mir bitte den Weg schicken?
+Danke schön.
+
+
+
 # Prüfung:
+
 ```Text
 Deine Mutter hat heute einen Geburtstag, du und deine Bruder wollt ihr eine Party organisieren.
 - Wo?
