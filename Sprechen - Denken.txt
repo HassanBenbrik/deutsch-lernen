@@ -1,0 +1,14 @@
+er : N
+ihn : A
+
+er, es : N
+ihm : D
+
+sie : N
+sie : A
+
+sie : N
+ihr : D
+
+Sie (plural) : ihnen
+
