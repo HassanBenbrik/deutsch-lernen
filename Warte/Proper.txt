@@ -1,0 +1,13 @@
+afrika Proper
+bayern Proper
+deutschland Proper
+europa Proper
+frankreich Proper
+großbritannien Proper
+hamburg Proper
+italien Proper
+karl Proper
+schweiz Proper
+spanien Proper
+wien Proper
+österreich Proper
